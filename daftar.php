@@ -36,7 +36,7 @@
    </td>
   </tr>
   <tr>
-    <td><a href="login.php">sudah punya akun?</a></td>
+    <td><a href="login.php">already have account?</a></td>
   </tr>
 
   
